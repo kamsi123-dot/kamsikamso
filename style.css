@@ -1,0 +1,39 @@
+.container {
+    display: flex;
+    justify-content: center;
+    height: 80vh;
+    align-items: center;
+}
+
+.image-search {
+    display: block;
+}
+
+.google-search {
+     display: flex;
+    justify-content: center;
+}
+
+.google-input {
+    padding: 14px;
+    width: 582.67px;
+    border-radius: 26px;
+    outline: none;
+    border: solid 0.1px rgb(234, 229, 223);
+}
+
+.google-image {
+    width: 272px;
+}
+
+.google-image-container {
+    display: flex;
+     justify-content: center;
+}
+
+
+
+
+
+
+
